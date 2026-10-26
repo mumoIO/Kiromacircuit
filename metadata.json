@@ -1,0 +1,6 @@
+{
+  "name": "100 Bob Meals Kenya - Under 100 KSh Food Finder",
+  "description": "Discover authentic Kenyan budget eateries, vibandas, and local hotels serving hearty, delicious meals for under 100 KSh across Nairobi, Mombasa, and beyond. Save your favorite food spots directly to Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
